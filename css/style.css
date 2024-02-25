@@ -5,6 +5,9 @@
 }
 
 body{
+    background-image: url(../storage/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     font-size: 1rem;
     height: 100vh;
     display: flex;
@@ -17,7 +20,7 @@ body{
 }
 
 .reloj{
-    background-color: white; 
+    background-color: rgba(177, 177, 177, 0.904); 
     width: 50%;
     height: 30%;
     display: flex;
@@ -41,7 +44,7 @@ body{
 
 .autor{
     margin-top: 5px;
-    color: #9BCF53;
+    color: #284402;
     font-size: 0.9rem;
 }
 
